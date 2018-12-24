@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="8px" viewBox="0 0 11 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>已签到</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="签到" transform="translate(-145.000000, -683.000000)" fill-rule="nonzero" fill="#58C94A">
+            <path d="M146.562641,686.527399 C146.248549,686.216661 145.742024,686.21938 145.431286,686.533472 C145.120548,686.847564 145.123267,687.354089 145.437359,687.664827 L148.372592,690.568714 C148.684303,690.877095 149.186163,690.877095 149.497874,690.568714 L155.562641,684.568714 C155.876733,684.257976 155.879452,683.751451 155.568714,683.437359 C155.257976,683.123267 154.751451,683.120548 154.437359,683.431286 L148.935233,688.874654 L146.562641,686.527399 Z" id="已签到"></path>
+        </g>
+    </g>
+</svg>

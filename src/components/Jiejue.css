@@ -1,0 +1,6 @@
+.ztmc{overflow:hidden;background:white;margin-top:10px}
+.index_list{overflow:hidden;margin:10px auto;background:white}
+.index_list li{width:25%;float:left;text-align:center;margin:5px 0;font-size:12px}
+.index_list li a{display:block}
+.index_list li div img{width:44px}
+.index_list li p{height:30px;line-height:30px;color:#666}

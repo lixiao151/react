@@ -1,0 +1,51 @@
+.car-fixed_top{width:100%;height:44px;background:#3095ff;background-color:#3095ff;position:fixed;left:0;top:0;z-index:99;color:white;text-align:center;overflow:hidden}
+.top-l{width:60px;height:44px;line-height:44px;float:left;text-align:center}
+.top-r{width:60px;height:44px;line-height:44px;float:right;text-align:center}
+.car-fixed_top h1{color:white;font-size:18px;height:44px;line-height:44px;font-weight:400;width:calc(100% - 120px);float:left;text-align:center}
+.car-fixed_top h2{color:white;font-size:14px;height:44px;line-height:44px;font-weight:400;width:calc(100% - 120px);float:left;text-align:center}
+.car-fixed_top a{color:white}
+/* .bjbtn{height:44px;line-height:44px;color:#fff} */
+
+/*购物车列表*/
+.gw_list{margin:10px auto}
+.gw_list li{background:white;margin-bottom:10px;padding:10px}
+.gw_list li dt{height:40px;line-height:40px;color:#333;border-bottom:1px solid #ddd}
+.gw_list li dt i.checked{display:none;color:#f6b900}
+.gw_list li dt.active i.unchecked{display:none}
+.gw_list li dt.active i.checked{display:inline}
+
+
+.gw_list li dd{overflow:hidden;border-bottom:1px solid #eee}
+.gw_list li dd:last-child{border-bottom:none}
+.gwinfo{padding:5px 5px 5px 110px;position:relative}
+.gw_list li .checks{width:20px;height:80px;position:absolute;left:5px;top:5px;line-height:80px}
+.gw_list li .checks i{margin:0 5px 0 0}
+.gw_list li dd img{width:80px;height:80px;position:absolute;left:25px;top:5px}
+.gw_list li dd h4{height:50px;line-height:20px;color:#666;overflow:hidden;font-size:12px}
+.gw_list li dd .gwinfo>p{height:30px;line-height:30px;color:#f6b900;overflow:hidden}
+.checks{color:#666}
+.checks i.checked{display:none;color:#f6b900}
+.checks.active i.unchecked{display:none}
+.checks.active i.checked{display:inline}
+.addminus{position:absolute;right:10px;bottom:10px}
+.addminus .add,.addminus .minus{display:inline-block;width:20px;height:20px;line-height:20px;padding:2px;color:#3095ff;border:1px solid #3095ff;border-radius:3px}
+.addminus .add i,.addminus .minus i{font-size:12px!important}
+.addminus span{display:inline-block;width:30px;height:24px;line-height:24px;color:#333;text-align:center}
+.sjyh{clear:both;height:40px;line-height:40px;padding-left:25px;font-size:12px}
+.sjyh span.yh{padding:4px 8px;color:#3095ff;border:1px solid #3095ff;margin-right:10px}
+.sjyh span.xq{color:#ccc}
+
+/*结算*/
+.pay{position:fixed;width:100%;height:50px;line-height:50px;bottom:60px;left:0;z-index:88;background:#f8f8f8;box-shadow:0 -1px 3px 0 rgba(0,0,0,.2)}
+.pay label{float:left;width:60px;padding-left:10px;height:50px;line-height:50px;vertical-align:top;color:#333}
+.pay label .checked{display:none}
+.pay label.active .checked{display:inline;color:#3095ff}
+.pay label.active .unchecked{display:none}
+.paytab{width:calc(100% - 70px);float:left}
+.bj{display:none}
+.pay .yf{padding:0 5px;width:70px;float:left;color:#aaa;font-size:12px;text-align:right}
+.pay p{padding:0 5px;width:calc(100% - 184px);float:left;text-align:right}
+.pay p span{color:#f6b900}
+.pay .js a{display:block;float:right;width:80px;height:36px;line-height:36px;margin:7px;text-align:center;background:#3095ff;color:white;border-radius:5px}
+.pay .bj a{display:block;float:right;width:80px;height:36px;line-height:36px;margin:7px;text-align:center;background:#3095ff;color:white;border-radius:5px}
+.pay .bj a.yzsc{box-shadow:0 0 0 1px #aaa inset;color:#666;border-radius:5px;background:none}

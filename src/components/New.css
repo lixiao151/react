@@ -1,0 +1,5 @@
+.zq{margin-top:20px; margin-bottom:70px; overflow:hidden}
+.zq li{float:left;background:white;margin:0 2%;width:46%}
+.zq li a{display:block;color:white;height:50px;line-height:50px;text-align:center;color:white;font-size:14px}
+.zq li:first-child a{background:#F99C35}
+.zq li:last-child a{background:#FA7252}
